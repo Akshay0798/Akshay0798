@@ -2,9 +2,7 @@
 # 💫 About Me:
 <h1>Hi 👋, I'm Akshay Umredkar</h1>
 <h3>A passionate Full Stack Developer developer</h3>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Akshay0798&label=Profile%20Views&color=12&pretty=false" />
-</a>
+
 
 🔭 I’m currently working on MERN Stack Project<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Java, DSA, Frontend & Backend Development<br>⚡ Fun fact I make Learning Funny and Enjoyable
 
